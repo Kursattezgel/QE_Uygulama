@@ -1,0 +1,8 @@
+<suite name = "Kursat Test Otomasyon" >
+
+    <test name="QE" >
+        <classes>
+            <class name ="testRunners.runner" />
+        </classes>
+    </test>
+</suite>
