@@ -62,7 +62,7 @@ Loglama seviyesini log4j.properties dosyasından değiştirebilirsiniz. Farklı 
 3. Config Ayarları
 config.properties dosyasındaki test ortamı URL'sini değiştirebilirsiniz. Örnek:
 properties
-url=https://www.amazon.com
+url=[https://www.amazon.com](https://catchylabs-webclient.testinium.com/signIn)
 ________________________________________
 Kullanılan Teknolojiler
 •	Cucumber: BDD (Behavior-Driven Development) için kullanılan test framework'ü.
